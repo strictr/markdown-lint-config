@@ -1,5 +1,9 @@
 # Markdown Lint Configuration
 
+[![Build Status](https://travis-ci.org/strictr/markdown-lint-config.svg?branch=master)](https://travis-ci.org/strictr/markdown-lint-config)
+
+[![npm version](https://badge.fury.io/js/%40strictr%2Fmarkdown-lint-config.svg)](https://badge.fury.io/js/%40strictr%2Fmarkdown-lint-config)
+
 A portable markdown lint configuration.
 
 ## Installation
