@@ -1,0 +1,25 @@
+{
+  "name": "@strictr/markdown-lint-config",
+  "version": "1.0.0",
+  "description": "A strict markdown lint configuration",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strictr/markdown-lint-config.git"
+  },
+  "keywords": [
+    "lint",
+    "markdownlint",
+    "markdown",
+    "configuration"
+  ],
+  "author": "Teodor Kurtev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strictr/markdown-lint-config/issues"
+  },
+  "homepage": "https://github.com/strictr/markdown-lint-config#readme"
+}
