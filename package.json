@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "A strict markdown lint configuration",
   "main": "index.json",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"no test specified\" && exit 0"
   },
