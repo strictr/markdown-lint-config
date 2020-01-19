@@ -11,7 +11,7 @@ A portable markdown lint configuration.
 In order to use this configuration in your project you can run the following command:
 
 ```bash
-mpm i @strictr/markdown-lint-config -D
+npm i @strictr/markdown-lint-config -D
 ```
 
 And after that in your `.markdownlint.json` can look like this:
