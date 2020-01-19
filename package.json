@@ -1,6 +1,6 @@
 {
     "name": "@strictr/markdown-lint-config",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "description": "A strict markdown lint configuration",
     "main": "index.json",
     "publishConfig": {
